@@ -1,7 +1,7 @@
 name: android_style_ok_dialog
-description: "Description here"
+description: "Android Style Ok Dialog"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/android_style_ok_dialog
 
 version: 1.0.0+1
 
